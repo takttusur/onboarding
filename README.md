@@ -36,6 +36,11 @@ We use scrum-based workflow, [read about it.](Workflow.md)
 1. [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 2. [ASP.NET Core Runtime: Hosting Bundle](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
+### Backend Python
+
+1.
+2.
+
 ### Frontend
 
 1. [Node.JS Current](https://nodejs.org/en)
