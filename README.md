@@ -17,6 +17,10 @@ All tasks, feature requests and source code will be here.
 3. Ask access for:
    1. Creating new branches
    2. Creating Pull requests
+  
+## Workflow
+
+We use scrum-based workflow, [read about it.](Workflow.md)
 
 # Developers
 
