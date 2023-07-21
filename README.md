@@ -1,4 +1,24 @@
-# Onboarding new developers
+# Onboarding newcomers
+
+## Calendar and Google Meet
+We're using it for team meetings to discuss about fatures, our plans, clarify requirements etc.
+
+1. [Как пользоваться Гугл Календарем](https://lumpics.ru/how-to-use-google-calendar/?ysclid=lkcgitfpxe353186810)
+2. Add your calendar to mobile phone
+3. Turn on notifications for Calendar App
+4. Tell your Google E-mail address to manager
+5. Install Google Meet to your device
+
+## GitHub account
+All tasks, feature requests and source code will be here.
+
+1. Make GitHub Account (if you don't have it)
+2. Ask to invite you to this organisation
+3. Ask access for:
+   1. Creating new branches
+   2. Creating Pull requests
+
+# Developers
 
 ## Install software
 
@@ -16,16 +36,9 @@
 
 1. [Node.JS Current](https://nodejs.org/en)
 2. [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-
-## User accounts 
-
-1. Make GitHub Account (if you don't have it)
-2. Ask to invite you to this organisation
-3. Ask access for:
-   1. Creating new branches
-   2. Creating Pull requests
   
 ## Learn resources
+
 
 ### Git
 1. [Что такое Git? ДЛЯ НОВИЧКОВ / Про IT / Geekbrains](https://www.youtube.com/watch?v=y5wxl4pBI_A)
