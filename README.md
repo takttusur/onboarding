@@ -22,8 +22,6 @@ All tasks, feature requests and source code will be here.
 
 We use scrum-based workflow, [read about it.](Workflow.md)
 
-# Developers
-
 ## Install software
 
 1. [Git](https://git-scm.com/downloads)
@@ -78,6 +76,14 @@ We use scrum-based workflow, [read about it.](Workflow.md)
 
 ### Python
 1.
+
+### For PO/QA/Managers/Designers
+1. [Обзор онлайн-доски Miro: зачем она нужна и как ей пользоваться / Skillbox Media](https://skillbox.ru/media/management/obzor-onlayndoski-miro-zachem-ona-nuzhna-i-kak-ey-polzovatsya/)
+2. [Figma. Коротко и ясно. Введение для новичков. | by Vladislav Hryhorenko | Medium](https://qvladislavp.medium.com/figma-коротко-и-ясно-введение-для-новичков-2c09c168a3b2)
+3. [Как проверить бизнес-идею с помощью CustDev: принципы, этапы и инструменты / Skillbox Media](https://skillbox.ru/media/marketing/kak-proverit-biznesideyu-s-pomoshchyu-custdev/)
+4. [Большой гайд по разработке для продактов](https://www.wannabelike.ru/biblioteka/bolshoy-gayd-po-razrabotke-dlya-prodaktov)
+5. [Гайд по написанию пользовательских историй и критериев приёмки / Хабр](https://habr.com/ru/companies/X5Tech/articles/723742/)
+6. [Принципы UX и UI дизайна: как сделать стильно и красиво](https://creatium.academy/blog/osnovy-ux-ui-dizajna)
 
 ## Make your first application
 
