@@ -84,6 +84,7 @@ We use scrum-based workflow, [read about it.](Workflow.md)
 4. [Большой гайд по разработке для продактов](https://www.wannabelike.ru/biblioteka/bolshoy-gayd-po-razrabotke-dlya-prodaktov)
 5. [Гайд по написанию пользовательских историй и критериев приёмки / Хабр](https://habr.com/ru/companies/X5Tech/articles/723742/)
 6. [Принципы UX и UI дизайна: как сделать стильно и красиво](https://creatium.academy/blog/osnovy-ux-ui-dizajna)
+7. [Чек-лист тестирования требований / Хабр](https://habr.com/ru/articles/543340/)
 
 ## Make your first application
 
