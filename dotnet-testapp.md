@@ -8,16 +8,16 @@ So that we are asking to build test application
 1. App is placed on personal github account
 2. Repository has correct .gitignore file
 3. App has at leas one controller with methods:
-  1. GET - to get saved data
-  2. POST - to add data
-  3. PUT - to update saved data
-  4. DELETE - to remove saved data
+    1. GET - to get saved data
+    2. POST - to add data
+    3. PUT - to update saved data
+    4. DELETE - to remove saved data
 4. App has Swagger UI for API testing
 5. Data should be saved in DB after app'll be terminated
 6. HTML page with JS should be provided
-  1. Page has a list of items
-  2. Page has an edit form to edit items
-  3. All requests to API use fetch() function from JS
+    1. Page has a list of items
+    2. Page has an edit form to edit items
+    3. All requests to API use fetch() function from JS
 
 ## Technical details
 
