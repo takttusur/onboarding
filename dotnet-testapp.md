@@ -18,6 +18,10 @@ So that we are asking to build test application
     1. Page has a list of items
     2. Page has an edit form to edit items
     3. All requests to API use fetch() function from JS
+7. The project should be based on .NET 7 and C#
+
+## Out of scope
+Design for HTML page, Authorization and Authentication, DB Optimization
 
 ## Technical details
 
