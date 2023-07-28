@@ -24,7 +24,13 @@ So that we are asking to build test application
 
 ## Mockup
 
+### testapp.html
+![image](https://github.com/takttusur/onboarding/assets/15832039/59d834c9-ea67-4456-9248-8765c1a6c64e)
+### React app
+
 ## Out of scope
+Some differences between results and mockup will not be a problem.
+Commnications with backend, webpack config, extended css. 
 
 ## Technical details
 
