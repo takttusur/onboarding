@@ -79,3 +79,4 @@ You'll see this in browser:
 Now, you can continue doing the task at `AplusB.js`. Use links below:
 1. [https://chakra-ui.com/docs/components/card/usage](https://chakra-ui.com/docs/components/card/usage)
 2. [https://react.dev/reference/react/useState](https://react.dev/reference/react/useState)
+3. [https://www.w3schools.com/react/react_events.asp](https://www.w3schools.com/react/react_events.asp)
