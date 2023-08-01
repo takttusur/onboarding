@@ -89,6 +89,7 @@ We use scrum-based workflow, [read about it.](Workflow.md)
 ## Make your first application
 
 ### React
+[Requirements and guide page](./react-testapp.md)
 
 ### .NET
 [Requirements and guide page](./dotnet-testapp.md)
