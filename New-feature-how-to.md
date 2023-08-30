@@ -22,3 +22,31 @@ Add dark theme to website
 ```
 If you have a question, like "What do I have to do?", I consider, you have to choose another title. 
 
+Describe what you want in text section. You can use [Markdown language](https://doka.guide/tools/markdown/). Allowed languages are **Russian** and **English**. The section already has a template, if not, you can use this:
+
+```
+# Feature name
+
+As a ...(user) I want ...
+So that ...
+
+## Acceptance criteria
+
+1. 
+   1. 
+   2. 
+2. 
+3. 
+
+## Mockup
+
+
+## Technical details
+
+```
+
+Also, check this article: [User Stories and User Story Examples by Mike Cohn](https://www.mountaingoatsoftware.com/agile/user-stories)
+
+Examples:
+* [Pictures carousel](https://github.com/takttusur/takt-public/blob/develop/docs/2307-Pictures-carousel.md)
+* [Main page skeleton](https://github.com/takttusur/takt-public/blob/develop/docs/2307-Main-page-skeleton.md) 
