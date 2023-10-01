@@ -94,3 +94,7 @@ We use scrum-based workflow, [read about it.](Workflow.md)
 ### .NET
 [Requirements and guide page](./dotnet-testapp.md)
 ### Python
+
+## What's next? 
+
+If you have a feature request use this guide to describe it: [New feature how to](./New-feature-how-to.md)
