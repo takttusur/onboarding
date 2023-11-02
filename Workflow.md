@@ -1,4 +1,8 @@
-# Processes for development(based on SCRUM framework)
+# NOT Working now
+
+because not too much people involved in developing process 
+
+# Processes for development
 
 Because our teams consist of volunteers, we are using modified SCRUM framework. We can't call it as SCRUM, but to have simple processes description we'll call it SCRUM or lite-SCRUM.
 
